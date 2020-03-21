@@ -1,4 +1,3 @@
 # CerealKillers
 
-TODO:
-Make page
+We have cereal... that's it
